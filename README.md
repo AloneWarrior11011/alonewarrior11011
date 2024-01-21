@@ -21,8 +21,9 @@
 ## 🔗 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/kunal-wadhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-wadhai" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kunalwadhai11011/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kunalwadhai11011/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunal-wadhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-wadhai" height="40" width="40" /></a>
+<a href="https://www.instagram.com/kunalwadhai11011/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kunalwadhai11011/" height="40" width="40" /></a>
+  <a href="https://twitter.com/AloneWarrior27" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-twitter-9420781-7651211.png" alt="twitter-kunal_wadhai" height="40" width="40" /></a>
 </p>
 
 
