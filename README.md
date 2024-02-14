@@ -18,6 +18,12 @@
 - 📕 I'm Pre-Final year student of **Computer Science**.
 - 👨‍💻 I'm eager to learn and adapt to new things.
 
+  ### 🛠️ About Problem Solving : 
+  🧑‍💻 I love to dive in the era of data structures and algorithm, I got more interest when I solves problem which
+  will help me to boost my problem solving skill and make me consistent for daily solving.
+  🎓Currently I got 100 days of daily streak badge on leetcode.
+  📈 I'm doing daily streak on leetcode and currently it has completed 200 plus days.
+
 ## 🔗 Connect with me:
 
 <p align="left">
