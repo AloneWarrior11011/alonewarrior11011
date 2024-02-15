@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Kunal From India</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;A+Passionate+For+Software+Development&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;A+Passionate+For+Software+Engineering&center=true&width=500&height=50"></a>
 </p>
 <!--
 <h3 align="center">Passionate for Software Development Engineer.</h3>
