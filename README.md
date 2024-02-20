@@ -12,7 +12,6 @@
 
 <h2>🙋‍♂️ About Me</h2> 
 
-- 🌱 I’m currently learning **Web Development Basic.**
 - 📫 How to reach me **kunalwadhai456@gmail.com**
 - 📈 Someone who are focus on growth, not on the result.
 - 📕 I'm Pre-Final year student of **Computer Science**.
