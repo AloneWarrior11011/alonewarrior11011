@@ -50,6 +50,7 @@
   
   ## 🎓 Achievements:
   <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="100DaysOfCodeBadge" title="100DaysOfDailyStreakBadge" width="150px" height="150px">
+  <img  align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50DaysOfCodeBadge" title="100DaysDailyStreakBadge" width="150px" height="150px">
 </p>
 <!-- ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
