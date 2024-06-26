@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kunalwadhai456@gmail.com**
 - 📈 Someone who are focus on growth, not on the result.
-- 📕 I'm Pre-Final year student of **Computer Science**.
+- 📕 I'm Terminal year student of **Computer Science**.
 - 👨‍💻 I'm eager to learn and adapt to new things.
 
   ### 🛠️ About Problem Solving : 
