@@ -1,13 +1,13 @@
 <h1 align="center">Hey 👋, I'm Kunal From India</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;A+Passionate+For+Software+Engineering&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Enthusiasm+For+Software+Engineering&center=true&width=500&height=100"></a>
 </p>
 <!--
 <h3 align="center">Passionate for Software Development Engineer.</h3>
-<h4> -->
-  Problem Solving || 100Days Of Code On Leetcode || 5🌟 Core Java/C++ @HackerRank || 100Days Of Daily Streak @Leetcode || Data Structure 
-</h4>
+<h2> -->
+  Computer Scince And Engineering | Data Structures And Algorithms | Competitive Programming Enthusiast | Running A Long Streak on Leetcode 
+</h2>
 <hr>
 
 <h2>🙋‍♂️ About Me</h2> 
@@ -49,8 +49,27 @@
 <p>
   
   ## 🎓 Achievements:
-  <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="100DaysOfCodeBadge" title="100DaysOfDailyStreakBadge" width="150px" height="150px">
-  <img  align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50DaysOfCodeBadge" title="100DaysDailyStreakBadge" width="150px" height="150px">
+  <div>
+   <img  align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50DaysOfCodeBadge" title="100DaysDailyStreakBadge" width="150px" height="150px">
+   <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="100DaysOfCodeBadge" title="100DaysOfDailyStreakBadge" width="150px" height="150px">
+   <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="150px" height="150px">
+  </div>
+  <div>
+    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2023-8.png" width="70px", height="70px">
+    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2023-9.png" width="70px", height="70px">
+    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2023-10.png" width="70px", height="70px">
+    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="70px", height="70px">
+    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="70px", height="70px">
+    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="70px", height="70px">
+  </div>
+  <div>
+    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="70px", height="70px">
+    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="70px", height="70px">
+    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-4.png" width="70px", height="70px">
+    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-5.png" width="70px", height="70px">
+    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-6.png" width="70px", height="70px">
+    <img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-7.png" width="70px", height="70px">
+  </div>
 </p>
 <!-- ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
