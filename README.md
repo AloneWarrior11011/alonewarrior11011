@@ -80,6 +80,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
   <a href="#"> <img alt="python" height="50" width="50" src="https://img.icons8.com/color/96/000000/python--v1.png"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> </p>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-ubuntu-logo-icon-download-in-svg-png-gif-file-formats--operating-system-pack-logos-icons-202420.png?f=webp&w=256" width="70" height="50">
  <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="mysql" width="120" height="70"/> </a> </p>
 <!-- ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alonewarrior11011&show_icons=true&locale=en&layout=compact" alt="alonewarrior11011" /></p>
