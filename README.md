@@ -49,12 +49,15 @@
 <p>
   
   ## 🎓 Achievements:
-  <div>
+  <div align="center">
+    <img align = "center" src = "https://assets.leetcode.com/static_assets/marketing/2024.gif" alt = "Annual Badge" title="Leetcode Annual Badge 2024" width="170px" height="170px">
+  </div>
+  <div align="center">
    <img  align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50DaysOfCodeBadge" title="100DaysDailyStreakBadge" width="150px" height="150px">
    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="100DaysOfCodeBadge" title="100DaysOfDailyStreakBadge" width="150px" height="150px">
    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="150px" height="150px">
   </div>
-  <div>
+  <div align="center">
     <img align="center" src="https://leetcode.com/static/images/badges/dcc-2023-8.png" width="70px", height="70px">
     <img align="center" src="https://leetcode.com/static/images/badges/dcc-2023-9.png" width="70px", height="70px">
     <img align="center" src="https://leetcode.com/static/images/badges/dcc-2023-10.png" width="70px", height="70px">
@@ -62,7 +65,7 @@
     <img align="center" src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="70px", height="70px">
     <img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="70px", height="70px">
   </div>
-  <div>
+  <div align="center">
     <img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="70px", height="70px">
     <img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="70px", height="70px">
     <img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-4.png" width="70px", height="70px">
