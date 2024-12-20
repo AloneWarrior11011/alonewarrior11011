@@ -85,7 +85,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> </p>
   <div>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-ubuntu-logo-icon-download-in-svg-png-gif-file-formats--operating-system-pack-logos-icons-202420.png?f=webp&w=256" width="70" height="50">
- <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="mysql" width="120" height="70"/> </a> 
+ <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="mysql" width="120" height="70"/>
+  <img src="https://thumbs.bfldr.com/at/6x3q9bsq4nj777n8sbbnp6/v/1069931050?expiry=1735322790&fit=bounds&height=800&sig=NTQzZDAyNTNjMWY4NGE1YTg1NDY1NjcwM2MyMzQ3MWExNTFiNmZjYw%3D%3D&width=1100" width="60" height="50"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945092.png?f=webp&w=256" width="60" height="50">
   </div>
 <!-- ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alonewarrior11011&show_icons=true&locale=en&layout=compact" alt="alonewarrior11011" /></p>
